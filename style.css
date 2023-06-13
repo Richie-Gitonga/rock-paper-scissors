@@ -1,0 +1,21 @@
+.parent{
+    width: 500px;
+    height: fit-content;
+    margin: auto;
+    padding: 50px;
+    border: solid grey 2px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgba(78, 104, 109);
+    color: aliceblue;
+}
+.button{
+    width: 300px;
+    display: flex;
+    margin: auto;
+    justify-content: space-around;    
+}
+button{
+    background-color: aquamarine;
+}
